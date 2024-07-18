@@ -3,7 +3,7 @@
 
 ## How to use:
 
-1) Select a process, make sure that you selected the main process (not a random child process)
+1) Select a process, make sure that you selected the main process (not a random subprocess)
 2) The ui will change into a simple pause / resume button, press it to pause and resume your selected process
 
 To select another process, re-start the app !
