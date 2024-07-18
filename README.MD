@@ -19,4 +19,4 @@ Tested on Windows 10 w/ rustup 1.26.0 & rustc 1.76.0
 
 ## How does it work
 
-Just like your task manager, simple calls to `NtResumeProcess` and `NtSuspendProcess`
+Just like your task manager, simple calls to `NtSuspendProcess` and `NtResumeProcess`
